@@ -1,6 +1,6 @@
 export const counter = {
-    INCREMENTAR : 'counter/INCREMENTAR',
-    DECREMENTAR : 'counter/DECREMENTAR'
+    INCREMENTAR: 'counter/INCREMENTAR',
+    DECREMENTAR: 'counter/DECREMENTAR'
 }
 
-export default counter;
+export default { counter };
